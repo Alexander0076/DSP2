@@ -36,6 +36,13 @@ namespace Solucion_Guia_3_4
             }
             }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 form = new Form1();
+            form.Show();
+        }
+
         private void btnshow_Click(object sender, EventArgs e)
         {
 
