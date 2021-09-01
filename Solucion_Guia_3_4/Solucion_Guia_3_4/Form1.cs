@@ -16,5 +16,18 @@ namespace Solucion_Guia_3_4
         {
             InitializeComponent();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Ejercicio1Guia3 eje1guia3 = new Ejercicio1Guia3();
+
+            eje1guia3.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Close();
+        }
     }
 }
