@@ -16,5 +16,10 @@ namespace Solucion_Guia_3_4
         {
             InitializeComponent();
         }
+
+        private void Ejercicio3Guia4_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

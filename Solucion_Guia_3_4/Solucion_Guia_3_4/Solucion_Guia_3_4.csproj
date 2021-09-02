@@ -87,11 +87,19 @@
     <EmbeddedResource Include="Ejercicio1Guia3.resx">
       <DependentUpon>Ejercicio1Guia3.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio1Guia4.resx">
+      <DependentUpon>Ejercicio1Guia4.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ejercicio2Guia3.resx">
       <DependentUpon>Ejercicio2Guia3.cs</DependentUpon>
     </EmbeddedResource>
+<<<<<<< HEAD
     <EmbeddedResource Include="Ejercicio2Guia4.resx">
       <DependentUpon>Ejercicio2Guia4.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Ejercicio3Guia4.resx">
+      <DependentUpon>Ejercicio3Guia4.cs</DependentUpon>
+>>>>>>> 8940963a064159c4400296a6c07fa8a004fe2554
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
