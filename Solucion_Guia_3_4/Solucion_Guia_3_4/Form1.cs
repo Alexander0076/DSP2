@@ -29,5 +29,12 @@ namespace Solucion_Guia_3_4
         {
             Close();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Ejercicio1Guia4 eje1guia4 = new Ejercicio1Guia4();
+            eje1guia4.Show();
+        }
     }
 }
